@@ -1,0 +1,4 @@
+node_modules/
+.angulardoc.json
+.cache
+dist
